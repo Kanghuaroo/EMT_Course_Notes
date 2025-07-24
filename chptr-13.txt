@@ -1,0 +1,42 @@
+# Gathering Vital Signs
+## Vital Signs
+  - Pulse
+    - Rate
+      - BPM: Adults 60-100
+        - Tachycardia: over 100
+        - Bradycardia: less than 60
+    - Quality
+      - Should be regular
+      - forceful wave / pulse of blood
+  - Respiration
+    - # of breaths in on minute
+    - Adults: 12 - 20
+    - Catagories: Normal, Shallow, Labored, Noisy
+  - Skin Color and/or Capilary Refill
+    - Cyanotic (blue-gray)
+    - Jaundiced (yellow)
+    - Flushed (red)
+  - Pupils
+    - Constricts with light
+    - Size, Equality, Reactivity
+    - PERRL
+      - Pupils are equal, round, and reactive to light
+  - Blood Pressure
+    - Force of blood on arterial walls
+    - Systolic Pressure: when heart contracts, normal is 120
+    - Diastolic Pressure: when heart relaxes, normal is 80
+    - Normal BP is 120/80
+  - Oxygen saturation (not needed, but always done)
+    - Normal: 96 - 100
+    - Mild Hypoxia: 91 - 95
+  - Blood Glucose
+    - Diabetics and Altered Mental Statuses
+    - Normal is 70 - 100 mg/dL
+  - Capanography
+    - End-tidal carbon dioxide: ETCO2
+      - Should be box waveform
+      - Normal : 35 - 45 mmHgA
+    - Indicates how well tissues are using Oxygen
+
+  - Baseline: first signs obtained
+  - Repeat Vital Signs: how they change over time
