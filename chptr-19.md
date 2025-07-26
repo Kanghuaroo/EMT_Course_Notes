@@ -64,7 +64,7 @@
     - Cheest Trauma
     - Shock
     - Upper GI Bleed / recent gastric surgery
-    - Conditions preventing as good mask scene
+    - Conditions preventing a good mask seal
 
 ## COPD: Chronic Obstructive Pulmonary Disease
   - Chronic Bronchitis
@@ -145,8 +145,13 @@
   - Sesonal + Allergies
   - Good Hygenie is best protectant
 
-## Inhalers
+## Prescribed Inhalers
   -  Can assist patients with taking their own medications
+  -  Generic: Albuterol, Metaproterenol, ipratropium
 
 ## Small Volume Nebulizer
   - Continuous flow of aerosolized medication
+  - Use 6-8 L/m
+
+## Assisted Breathing
+Nasal Cannula < Non-rebreather < CPAP < Bag Valve Mask
