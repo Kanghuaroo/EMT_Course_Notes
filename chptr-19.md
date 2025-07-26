@@ -144,3 +144,9 @@
   - Most Common Issue
   - Sesonal + Allergies
   - Good Hygenie is best protectant
+
+## Inhalers
+  -  Can assist patients with taking their own medications
+
+## Small Volume Nebulizer
+  - Continuous flow of aerosolized medication
