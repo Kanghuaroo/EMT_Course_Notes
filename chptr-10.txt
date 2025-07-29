@@ -1,0 +1,37 @@
+# Respiration and Artificial Ventilation
+ - Ventilation: AIr in/out of lungs
+ - Inhalation is active process
+ - Exhalation is passive
+ - Tidal Volume is air moved in ONE breath
+ - Not all breath gets to alveoli
+ - Alveolar Ventilation refers to the amount of air that hits alveoli
+ - Alveoli > Bronchiole tubes
+
+ ## Respiration
+	- Hypercapnia : high level of CO2
+	- Hypoxia: low Oxygen
+	- Respiratory Distress
+		- Compensation able to be done to self regulate breath
+		- patient awake and normal
+	- Respiratory Failure
+		- Copenstation does not work
+		- Metabolic needs are not met
+		- Precursor to Respiratory Arrest
+	- Assessment
+		- Cyanosis is seen in skin, lips, toungue, ears, or nails
+		- Retractions and Nasal flarings are seen (children usually)
+		- Oxygen saturations readings are low (<95%)
+
+ABC
+	- Airway
+	- Breathing
+	- Circulation
+
+## Positive Pressure Ventilation
+	- Use positive pressure to force air or oxygen into the lungs
+	- reslies on a force that is OPPOSITE of the force the body normally uses
+	- 1/4 ration
+	- Negative Side Effects
+		- Pressure on heart reduecs output
+		- air going into stomach: gastric distension
+		- accidental hyperventialtion and vasoconstriction

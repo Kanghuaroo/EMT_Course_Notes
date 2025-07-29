@@ -1,0 +1,33 @@
+# Medical Teminology
+  - Anatomy
+
+  - Anterior (ventral): Front
+  - Posterior (dorsal):  Back
+  - Superior: Vertical/above
+  - Inferior: Vertical below
+  - Proximal: closer to torso
+  - Distal: farther from chest
+  - Palmar: palm of hand
+  - Plantar: sole of foot
+  - Frontal Plane: coronal plane
+  - Sagittal Plane: medican
+  - Transverse Plane: transverse
+
+  - Abdominal quadrents
+  - Bottom of ribs to groin
+    - Right upper quadrant
+      - Liver
+    - Left upper quadrant
+      - Spleen
+    - Right lower quadrant
+      - Appendix
+    - Left lower quadrant
+      - Intestines
+
+## Postional
+  - Supine: On back
+  - Pron: on abdomen
+  - Recovery: lying on side
+    - Lateral Recumbant
+  - Fowler: Seated straight up
+  - Semi-Fowler: Sitting up, but not fully up

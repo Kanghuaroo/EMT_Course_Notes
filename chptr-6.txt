@@ -1,0 +1,153 @@
+# Anatomy and Physiology
+## Musculoskeletal
+  - Gives shape
+  - Skeleton
+  - Skull
+    - Mandible: bottom Jaw (moves)
+  - Spinal column
+    - 33 Vertebrae that encase spinal cord
+    - Vital for movement, sensation, and vital functions
+    - Cervical 7
+    - Thoracic 12 
+    - Lumbar 5
+  - Thorax
+    - 12 ribs and sternum
+    - Protects the heart, lungs major vessels
+  - Pelvis
+    - Ilium
+    - Ischium
+    - Pubis
+    - Hip Joint
+  - Lower Extremities
+    - Femur
+    - Patella
+    - Tibia
+    - Fibula
+    - Ankle
+      - Lateral Malleous
+      - Tarsals
+  - Upper Extremities
+    - Clavicle
+    - Scapula
+    - Acromion Process
+      - Acromioclavicular joint
+    - Humerous
+    - Radius
+    - Ulna
+  - Joints
+
+## Respitory System
+	- "Air" is approximately 21% air
+	- Larynx
+		- Midwaypoint of airway
+
+## Cardiovascular System
+  - Heart
+		- Four Chambers
+		  - Two Atria (upper area)
+			- Two ventricles (lower area)
+		- Pathway of blood through heart
+		  1. Right Atria
+			2. Right Ventricle
+			- Detour to lungs via plumonary artery -> lungs -> pulmonary vein
+			3. Left Ventricle
+			4. Left Atria
+  - Bradychardia - slow heartrate less than 60
+	- Tachychardia - fast heartrate more than 100
+	- Conduction System
+	  1. Sinoatrial node ( pacemaker ) 
+		2. Atrioventricular node
+		3. Atrioventricular bundle ( bundle of his )
+		4. Bundle branches
+		5. Purkinje fibers
+	- Circulation of the blood
+	  - Coronary arteries
+		- Aorta
+		- Pulmonary Artery
+		- Carotid artery
+		- Femoral artery
+		- Brachial artery
+		- Radial artery
+		- Posterioor tibial artery
+		- Dorsalis pedis artery
+	- Composition of Blood
+	  - Plasma: Volume filler
+		- Red Blood Cells: Oxygen Transport
+		- White Blood Cells: Immune System
+		- Platlets: clotting
+	- Pulse
+	  - Peripheral pulse
+		  - Radial
+			- Brachial
+			- Posterior tibial
+			- Dosalis pedis
+		- Central pulse
+			- Carotid
+			- Femoral
+		- Peripheral pulses are felt with normal blood pressure (~80)
+	- Blodd pressure
+	  - Force on blood vessels
+		- Systolic: upper reading when left ventricle contracts
+		- Diastolic: lower reading when left ventricle refills
+	- Perfusion
+	  - Adequate supply of oxygen and nutrients to the cells of the body, with the removal of wate products
+	  - Hypoperfusion (shock) is not enough perfusion
+- Lymphatic System
+	- Fluid transfer system
+	- Lymphoid Organs
+		- Adenoids
+		- Tonsils
+		- Spleen
+		- Thymus
+		- Nodes
+- Nervous System
+	- Central Nervous
+	  - Brain
+		- Spinal cord
+	- Peripheral Nervous System
+	  - Sensory Nerves
+		- Motor nerves
+	- Autonomic nervous system
+	  - Involuntary motor functions
+- Digestive System
+  - Food digestion and transport
+	- Stomach
+	- Small Intestine
+	- Large Intestine
+  - Liver
+	- Gallbladder
+	- Pancreas
+	- Spleen
+	- Appendix
+# Integumentary System (Skin)
+  - Protection
+	- Water Balance
+	- Temperature regulation
+	- Excretion
+	- Shock (impact) absorption
+	- Layers
+	  - Epidermis
+		- Dermis
+		- Subcutaneous
+# Endocrine
+  - Hormones that regulate body activities
+	- Pancreas with insulin
+	- Adrenal glands
+	  - Epinephrine
+
+# Renal System
+  - Urinary System
+	- Regulate fluid levels, filter chemicals, and adjust body pH levels
+	- Kidneys
+	- Bladder
+	- Ureters: transport urine to bladder from kidneys
+	- Vrethra: Excretes urine from the bladder to external environment
+
+# Reproductive Systems
+  - Male
+		- Penis
+		- Testes
+	- Female
+	  - Uterus
+		- Vagina
+		- Ovaries

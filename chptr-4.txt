@@ -1,0 +1,67 @@
+# Medical, Legal, and Ethical
+
+# Scopes of Practice
+  - What we are allowed to do
+  - Defined by state and regional guidelines
+
+# Standard of Care
+  - How we should do it
+
+# Patient Consent and Refusal
+  - Permissions from patient to assess, treat, and transport
+  - Expressed conset must be informed
+  - Implied consent is assumed, i.e. unconsious
+  - Children and mentally incompetent adults cannot give consent
+    - Exceptions are 
+      - Life threting urgent care needed
+      - Serve in armed forces
+      - People with kids
+  - Involuntary transport
+    - Patient considered threat to themselves or others
+    - Court Order
+    - Usually requires decision by mental health professionals or police officer
+    - If patient restrained, ensure the patients health and well being during this time
+
+# Patient Refuses Care
+  - Care can be refused when
+    - Patient can consent
+    - awake and oriented
+    - fully informed
+    - patient will be asked to sign a "release" form
+  - Despite all precautions, EMT may still be held liable
+    - I am eligble for malpractice insurance?
+  - Take all possible actions to persuade the patient to accept care and transport
+    - Talk to patient
+    - Listen and diagnose why not going to hospital
+    - Infrom of consequenses of NOT going
+    - Can consult medical direction for info
+    - Call law enforcement if needed (violence)
+  - For a DNR must see a proper form we need to see a valid form first
+
+# Negligence
+  - Prove EMT had duty to act
+    - Certification
+    - Agency with Official Medical Director
+    - On-the-clock
+  - Breach of Duty
+    - Failed to provide standard of care expected or failed to act 
+  - Must prove Proximate Causation
+    - Patient suffered harm because of EMT action or inaction
+  - Negligent EMTs may be required to pay damages
+  - Abandonment
+    - Once care is initiated, it may not be discontinued until transferred to medical personnel of equal or greater training
+
+# Lawsuits
+  - Typlically will be classified as a tort (suing everyone)
+  - Res ipsa loquitur
+    - Action speacks for itself
+
+# Good Samaritan Laws
+  - Immunity from liability if rescuer acts in good faith within level of training
+  - Does not protect gross negligence or violations of law
+
+
+# Follow HIPPA for confidentiality
+  - Health Insurance Portability and Accountability Act
+  - Info is only shared to people part of patients care
+  - Cops are only offered Info on Drivers Liscence

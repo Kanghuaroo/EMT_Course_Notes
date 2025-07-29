@@ -1,0 +1,95 @@
+# Principles od Pathophysiology
+Study of how disease processes affect the body
+
+## The Cell
+ - Mitochondria converts glucose and nutrients into ATP
+ - Glucose is the energy
+ - Insulin must match the body's glucose requirement
+ - Oxygen is used for Aerobic metabolism
+ - Membranes may be altered due to disease
+
+## Regulation of Hemeostatis
+ - Regulation  via hypothalamus and medulla oblongata
+ - pH 7.35 - 7.45
+
+ ## Cardiopulmonary System
+  - Lungs and Heart
+		- Oxygen
+		- Distribution of blood
+		- Removal of waste products
+	- Normal CO2 is 35 - 45
+	- Airway MUST be open (patent)
+	- Lungs
+		- Tidal Volume: volume of air moving in and out
+		- Tidal Volume * respitory rate = minute volume
+			- Amount of air in one minute
+		- hypoxia: low oxygen
+		- hypercapnia: high CO2
+	- Blood
+		- Plasma Oncotic Pressure: plasma protiens that attract water away from are around cells and puts into bloodstream
+		-Hydrostatic pressure: Water being pushed into the cells
+		- Hypertension: high blood pressure
+	- Heart
+		- Stroke (pump)
+			- Approx 90mL blood per pump
+			- Preload: Blood returing to heart
+			- Contractility: how hard heart squeezes
+			- Afterload: Pressure the heart has to pump against to force blood out into the system
+		- Cardiac Output: Stroke volume * beats per minute
+		- tachycardia reduces cardiac output due to not being able to refill
+		- Dysfunction
+			- Mechanical
+			- Electrical
+	- Ventilation(V) must match Perfusion (Q) V/Q match
+
+## Shock
+  - Hypoperfusion to the muscles
+	- Hypovolemic: low blood volume
+	- Distributive: low blood vessel tone / cannot give oxygen
+	- Cardiogenic: heart fails to pump
+	- Obstructive: blood cannot flow
+	- Symptoms
+		- Altered mental status
+		- Increased heart rate
+		- Increased respiratory rate
+		- Delayed capillary refill time
+		- Pale, cool, clammy skin
+		- Sweating
+	- Decompensated shock occurs when compensatory measures fail
+		- decreased blood pressure
+	- Irreversible shock happens when things die
+
+## Fluid Balance
+  - Body is 60 percent water
+		- Inracellular is 70%
+		- Intravascular is 5%
+		- Interstitial is 25%
+	- Poor fluid distribution
+		- Edema: swelling associated with the movement of water
+
+## Nervous System
+  - Brain and spinal cord
+	  - Covered by protective layers (meninges)
+		- Layer of shock-absorbing fluid (cereborosprinal fluid)
+		- Still subject to damage from trauma or disease
+	- Medical Dysfunctions
+		- Stroke
+		- Infection
+		- Disease: Lou Gehrig, MS
+		- hypoglycemia: Low blood sugar
+
+## Endocrine System
+	- Hormone secreation
+	- Brain
+	- Kidneys
+	- Pancrease
+	- Dysfunction can be either too many or too little hormones
+	- Adrenal Insufficiency; can be also be supressed with medicines
+
+## Digestive System
+  - Mourth-to-butt
+	- Diharrea: three watery stools over three days
+	- WASH YOUR HANDS
+
+## Immune System
+  - Hypersensitivity is a good reason to not use medications
