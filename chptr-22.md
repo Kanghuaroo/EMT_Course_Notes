@@ -31,9 +31,16 @@ This is why nitrile gloves are now the standard.
  - Remove blue cap; press orange end to thigh
  - Hold for 10 seconds
  - Transport to hospital
+ 
+Reasons to give:
+ - Indicated if respiratoru distress or shock
+ - Perscribed or on ambulance
+ - Medical direction given
 
-Ready-Check-Inject Method:
-Dose is:
- - 0.3 mL for adults
- - 0.15 mL for children
-Injected via Intramuscular needle
+Ready-Check-Inject Kit:
+    - Check Kit for completeness
+    - use syringe with aseptic techniques
+    - Dose is:
+        - 0.3 mL for adults
+        - 0.15 mL for children
+    Injected via Intramuscular needle
